@@ -18,6 +18,6 @@ jobs:
 
       - name: Build the SnowFall Docker image
         run: |
-          docker build . --tag ghcr.io/SergeiVorobev/snowfall:latest
-          docker run ghcr.io/SergeiVorobev/snowfall:latest
-          docker push ghcr.io/SergeiVorobev/snowfall:latest
+          docker build . --tag ghcr.io/sergeivorobev/snowfall:latest
+          docker run ghcr.io/sergeivorobev/snowfall:latest
+          docker push ghcr.io/sergeivorobev/snowfall:latest
