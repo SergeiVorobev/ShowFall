@@ -9,4 +9,4 @@ RUN pip install -r requirements.txt
 
 # Now copy in our code, and run it
 COPY . /snow_app
-LABEL org.opencontainers.image.source="https://github.com/SergeiVorobev/SnowFall"
+LABEL org.opencontainers.image.source="https://github.com/SergeiVorobev/snowFall"
