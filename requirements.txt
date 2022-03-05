@@ -43,6 +43,7 @@ glob2==0.7
 greenlet==1.0.0
 gunicorn==20.0.4
 heroku==0.1.4
+heroku3==5.1.4
 humanize==3.6.0
 idna==2.10
 ipykernel==5.5.5
